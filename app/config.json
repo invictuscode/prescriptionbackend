@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "prescriptionmed",
+  "private_key_id": "8415b01853df83916a10ef3c26f20375488333b6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCaeAVlvZxeScFJ\nNPAVO1VAQLX8117EK0OhOqhdqRpBRHjFx/Wxu1wCg+/AOfDv48N8K4of5gDyQmap\nEi4D5+GDKciJ3yTigQL8iOv0NcS/xyu8jVqWfa60xhgcNgMGmzDkTBHrJq+1khfM\nGRqZIUwrUNBMZswYYs90YZv53j/YQ9yUvgrgkUnuspEqUcnpL0sAyhl1UJX6qVCD\nIK3meNaoFSS5o0GWGTxy0KUeilQimY+z+9KN5K6gchH6tvKYMFO2VVLXf0h4UMw0\nyIPBStjyd0+sQF4sO71KBlOIhFOZQNNO++bETokPqQuWKTCjY+KTSPz8OVEcswcE\nEVAtF8B9AgMBAAECggEAH7aKbSPriZQc4bnDnKhMzV87vcg9xYqYXO6dCHWiVUoI\nfZqa/71Wm5GY1F9Q7v9U8BZESl4/TX2CdC2uUtD1hKc8a8nrWbFg+pXl04KCfVkX\nyqM+uOzexHBzHL+eCWotNIHFoACWTHHM/vMcednTOIVj7nugZVVMADnV+wu9Edoz\nLrUk/YfMgnFqyBHN6VDRlGIKOv78nYYgZ02CmxmZ8GxbFBVPv1uTIF9GfZ9PCm0k\nVKjpF6j+D9PMXzxq615mz11LHh9Jbrh1GibinWusy2oX58SJj0GkoJg0CNG2Ukwb\nELziBZXN4vwiZM9kYcIuLYy5kFNz+kE2ECTd9Mq45QKBgQDLyAn18v4BJhUcrt2I\nfEFlU/a8U8LnLR8WDzOrj2KzzXlPi8UF1+pM/t9euywjuLTrlu49xZKW/5GW1DEg\nPEGEWaEf6tp+SDBkiyVG0zuTWYZBsVUlr93KkZwkFYXj76wZMOJduYHvZT/pjpa2\nQLVikuFQubuYOxgGUUQaTW0KSwKBgQDCDRn+KN2U4nRL8mB8zfgPKvVyiPoLpFVu\ndnocTLGx8267DC8ZRfzPhxNL9v9ZWC0UQj67JdpOtpaxZOBO6O5oNJ0D/1bFZKkY\nBpAQWGSBh2Hk3eUp/dtQr+nIiPlkOjYe9dwkSd//iXTiT6+uDuqzYMGlgSAp509P\nSihm6UMjVwKBgCESWet8gBSXpZ1+E53u7H4RXl26CkuSWxUtamlRX+dmVWW/fT4x\niGjuhDnPjp5Nf68sU4Xa5qty1qHv1fkxTkC4exm+966+8HugyW/xIB4NzWgj63mu\nTQRvFTQV+iC/6OI9uL8VOC0t9W1mIrd5UPaqd76uJe/Sx1dfIPpTznp5AoGANrZW\n89A12XqX66nlBotUO4KTPb3dMlcdN030U/JTz6ahO9/Nj8Sp6SFekXaMvHYeD641\n3bJogPT+O/oDPHx0a7EZ7DycDH+7JWkESXeCrvqq4UqnCFXo9jEDK2VjW50GEWik\nrx6dJ4FsETsCf4L5LaZEMxPbK7VqKSLxjUKLiXUCgYBxH+oRZWs0iv+Nhkx660C2\n6w2YinwnrQ6dqnwmE8Vhtq+yoXk10A/sZeeC4wvYyzgxS7Ao1xd5EhjFE3YWN50r\n719aTR1EB91ozkKEbltVyuIOkP97nHTEEpRUa72LZQDG/oPhC7fq9mtXrwHRBbV4\nPTKr3dCubVf3dswa9sZhzQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-36dqg@prescriptionmed.iam.gserviceaccount.com",
+  "client_id": "100201658339557969933",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-36dqg%40prescriptionmed.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
